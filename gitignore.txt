@@ -1,0 +1,19 @@
+# Java
+/target
+*.class
+*.jar
+*.war
+
+# Node/React
+node_modules
+build
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Logs
+*.log
